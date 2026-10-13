@@ -28,7 +28,7 @@ Scraped 133 smartphone listings from Jumia.com.ng to analyze pricing strategy, b
 - Interactive Filters: Brand & Price Segment
 
 ### 📁 Files
-- `jumia_smartphone_scrapping.ipyng` - Web scraping script
+- `jumia_smartphone_scrapping.ipynb` - Web scraping script
 - `JUMIA_Smartphones.csv` - Cleaned dataset (133 rows)
 - `JUMIA SMARTPHONE MARKET ANALYSIS.pbix` - Power BI file
 - `Jumia Market Analysis Dashboard.jpg` - Dashboard image
