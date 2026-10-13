@@ -6,8 +6,7 @@
 
 
 ### 🔍 Project Overview
-Scraped 133 smartphone listings from Jumia.com.ng to analyze pricing strategy, brand positioning[Jumia_smartphone_scrapping.ipynb](https://github.com/user-attachments/files/33388787/Jumia_smartphone_scrapping.ipynb)
- and affordability in Nigeria's largest e-commerce market.
+Scraped 133 smartphone listings from Jumia.com.ng to analyze pricing strategy, brand positioning and affordability in Nigeria's largest e-commerce market.
 
 **Key Findings:**
 - **₦65K to ₦1.47M** - Massive 22x price gap serving both entry-level and premium buyers
